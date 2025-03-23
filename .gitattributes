@@ -1,0 +1,6 @@
+# Вказуємо Go як основну мову
+task.go linguist-detectable=true
+task.cs linguist-detectable=false
+task.js linguist-detectable=false
+task.py linguist-detectable=false
+task.php linguist-detectable=false
